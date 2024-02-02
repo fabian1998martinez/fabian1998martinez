@@ -1,16 +1,20 @@
-### Hi there 👋
+#Hello 👋 I'am Fabian 
 
-<!--
-**fabian1998martinez/fabian1998martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi GitHub! Soy Fabián, full stack en Java, originario de Buenos Aires, Argentina. trabajo en mi marca personal y proyectos.
 
-Here are some ideas to get you started:
+#Sobre Mi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*🌎 Buenos Aires , Argentina
+*🚀 Desarrollando proyectos propios 
+
+#Skill
+
+*💻 Gestionando Java con Spring Boot desde 2023.
+*Java EE (Java Platform, Enterprise Edition)
+*JPA (Java Persistence API)
+*JAX-RS (Java API for RESTful Web Services)
+
+#Contact
+
+📧 Puedes ponerte en contacto conmigo a través del correo electrónico e [martinmartiniano8@gmail.com].
+💼  Conéctate conmigo en LinkedIn : https://www.linkedin.com/in/fabianmartinezfullstack
